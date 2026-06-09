@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 780" role="img" aria-labelledby="title desc">
+<title id="title">Mya on her travelling trampoline illustration</title>
+<desc id="desc">A storybook girl on a glowing trampoline with hills, books and stars.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#dff4ff"/><stop offset="1" stop-color="#fff5dd"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#153a47" flood-opacity=".22"/></filter>
+</defs>
+<rect width="650" height="780" rx="36" fill="url(#bg)"/>
+<path d="M0 578 C96 510 170 548 258 494 C359 431 452 509 650 435 L650 780 L0 780 Z" fill="#87bd8a"/>
+<ellipse cx="330" cy="620" rx="225" ry="68" fill="#a9dba8" opacity=".55"/>
+<ellipse cx="330" cy="608" rx="185" ry="48" fill="none" stroke="#d7a532" stroke-width="18" filter="url(#shadow)"/>
+<ellipse cx="330" cy="608" rx="140" ry="33" fill="none" stroke="#ffe28a" stroke-width="6"/>
+<path d="M260 296 C244 244 265 189 323 180 C383 171 421 220 407 286 C439 314 440 360 411 392 C373 435 281 422 249 385 C218 348 222 315 260 296 Z" fill="#d9aa69"/>
+<path d="M278 204 C250 246 259 338 276 408 C294 468 371 461 398 407 C424 344 422 247 382 204 C352 171 302 172 278 204 Z" fill="#c89658" opacity=".75"/>
+<ellipse cx="334" cy="279" rx="69" ry="79" fill="#ffd9b4" stroke="#c98f64" stroke-width="3"/>
+<path d="M275 272 C300 219 363 218 395 268 C388 216 362 190 327 190 C296 190 272 218 275 272 Z" fill="#b87a3e"/>
+<circle cx="307" cy="285" r="8" fill="#2f75b5"/><circle cx="363" cy="285" r="8" fill="#2f75b5"/>
+<path d="M316 328 C332 340 353 338 365 326" fill="none" stroke="#8b4b4b" stroke-width="5" stroke-linecap="round"/>
+<path d="M391 247 L408 266 L432 258 L420 281 L435 302 L409 298 L392 318 L388 292 L365 282 L389 270 Z" fill="#f7cb4d" stroke="#c28b20" stroke-width="4"/>
+<text x="404" y="294" text-anchor="middle" font-family="Arial" font-weight="700" font-size="28" fill="#b33c81">M</text>
+<path d="M284 371 C318 395 356 394 390 371 L420 507 C375 535 293 536 248 507 Z" fill="#3482bd"/>
+<path d="M295 380 L282 508 M374 380 L389 508" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+<path d="M248 407 C207 430 178 467 158 520" stroke="#3482bd" stroke-width="27" stroke-linecap="round" fill="none"/>
+<path d="M421 407 C463 431 490 466 510 520" stroke="#3482bd" stroke-width="27" stroke-linecap="round" fill="none"/>
+<path d="M258 507 L236 613" stroke="#3482bd" stroke-width="30" stroke-linecap="round"/>
+<path d="M407 507 L432 613" stroke="#3482bd" stroke-width="30" stroke-linecap="round"/>
+<path d="M218 633 C242 619 267 621 286 639" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+<path d="M414 639 C436 619 462 619 485 633" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+<circle cx="111" cy="154" r="9" fill="#fff"/><circle cx="500" cy="136" r="7" fill="#f7cb4d"/><circle cx="552" cy="243" r="11" fill="#fff" opacity=".8"/>
+<path d="M88 660 L185 635 L270 680 L166 710 Z" fill="#fffdf7" stroke="#d9c08b" stroke-width="4"/>
+<path d="M463 666 L545 642 L602 683 L512 711 Z" fill="#fffdf7" stroke="#d9c08b" stroke-width="4"/>
+</svg>
